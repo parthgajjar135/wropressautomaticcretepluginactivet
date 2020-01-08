@@ -5,6 +5,7 @@ autoatic crete the
 https://codex.wordpress.org/Creating_Tables_with_Plugins
 coustome postr type
 https://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/
+
 https://www.cloudways.com/blog/how-to-create-custom-post-types-in-wordpress/ 
 
 html to wordpress
