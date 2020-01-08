@@ -1,13 +1,41 @@
 
 likswordk
 autoatic crete the 
-
+------------------------------------------------------------------------
 https://codex.wordpress.org/Creating_Tables_with_Plugins
-coustome postr type
-https://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/
+------------------------------------------------------------------------
 
+
+coustome postr type
+-----------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+https://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/
+---------------------------------------------------------------------------------
 https://www.cloudways.com/blog/how-to-create-custom-post-types-in-wordpress/ 
+----------------------------------------------------------------------------
 
 html to wordpress
+----------------------------------------------
+----------------------------------------------
 https://websitesetup.org/html-to-wordpress/
 
+crud
+------------------------------------------------------------------
+------------------------------------------------------------------
+https://mac-blog.org.ua/wordpress-custom-database-table-example-full/
+-----------------------------------------------------------------------------------
+https://www.monarchdigital.com/blog/2018-10-01/developing-sql-crud-ajax-functionality-wordpress-plugins
+-----------------------------------------------------------------------------------------------
+https://www.sitepoint.com/using-wp_list_table-to-create-wordpress-admin-tables/
+--------------------------------------------------------------
+https://github.com/eduardoarandah/wordpress-crud-example
+-------------------------------------------------------
+
+
+all step
+---------------------------------------------------------------------------------------------------
+https://www.solutionshint.com/how-to-insert-data-into-custom-table-via-wordpress-custom-plugin/
+https://www.solutionshint.com/how-to-retrieve-data-from-database-in-wordpress/
+https://www.solutionshint.com/how-to-insert-data-using-ajax-in-php/
+https://www.solutionshint.com/how-to-insert-data-in-database-in-php/
+https://www.solutionshint.com/how-to-insert-data-using-dynamic-function-in-php/
